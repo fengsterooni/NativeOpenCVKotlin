@@ -1,7 +1,4 @@
 include ':app'
-
-// Define your opencvsdk path here
-def opencvsdk='../opencvsdk'
 include ':opencv'
 project(':opencv').projectDir = new File(opencvsdk + '/sdk')
 rootProject.name = "NativeOpenCVKotlin"

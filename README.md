@@ -8,3 +8,8 @@ A quick Kotlin starter app using OpenCV 4.3.0 with Native Development Kit (NDK) 
 
 It is done by following the instructions from [this Github Repo](https://github.com/VlSomers/native-opencv-android-template)
 
+
+
+### Screencast:
+
+![screenshot](https://github.com/fengsterooni/NativeOpenCVKotlin/blob/master/screencast.gif)
