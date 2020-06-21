@@ -21,7 +21,10 @@ build/
   
 # Local configuration file (sdk path, etc)
 local.properties
-  
+
+# Local Gradle configuration
+gradle.properties
+
 # Eclipse project files
 .classpath
 .project
@@ -34,8 +37,10 @@ local.properties
 /*/*/build
 build
 /*/*/production
+/*/.cxx
 *.iml
 *.iws
 *.ipr
 *~
 *.swp
+
